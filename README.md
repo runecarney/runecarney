@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi
+### I'm Rune
+#### Not currently working on anything
+
 
 <!--
 **runecarney/runecarney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
