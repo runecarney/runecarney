@@ -1,6 +1,6 @@
 ## Hi
 ### I'm Rune
-#### Not currently working on anything (besides my [website](runecarney.github.io))
+#### Not currently working on anything (besides my [website]())
 
 
 <!--
