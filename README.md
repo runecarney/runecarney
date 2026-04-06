@@ -1,6 +1,6 @@
 ## Hi
 ### I'm Rune
-#### Not currently working on anything (besides my [website]())
+#### Not currently working on anything
 
 
 <!--
